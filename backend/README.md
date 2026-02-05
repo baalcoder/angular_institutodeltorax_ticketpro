@@ -1,4 +1,4 @@
-# 🎫 TicketPro — Enterprise Ticket Management System
+# TicketPro — Enterprise Ticket Management System
 
 **TicketPro** es una solución Full Stack de alto rendimiento para la gestión empresarial de tickets de soporte. Diseñada con una arquitectura moderna, escalable y orientada a reglas de negocio estrictas para garantizar la integridad operativa.
 
