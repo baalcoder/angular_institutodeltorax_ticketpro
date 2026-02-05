@@ -50,7 +50,7 @@ npm run db:import
 
 MYSQLPASSWORD=dCdHjkGfInNaiZphoZQbeqFZljSMgMtH
 
-# O importa manualmente el archivo database/schema.sql en tu gestor MySQL preferido.
+# O importa manualmente el archivo db/schema.sql en tu gestor MySQL preferido.
 ```
 
 ### 2. Backend (API)
@@ -133,7 +133,7 @@ ticketmaster/
 │   │   ├── shared/         # Componentes UI reutilizables
 │   │   └── app.component.* # Layout principal (Sidebar, Shell)
 │   └── ...
-├── database/               # Scripts SQL
+├── db/               # Scripts SQL
 └── package.json            # Dependencias del frontend y scripts globales
 ```
 

@@ -2,7 +2,7 @@
   "name": "ticketmaster",
   "version": "0.0.0",
   "scripts": {
-    "db:import": "mysql -h switchyard.proxy.rlwy.net -P 45427 -u root -p railway < database/schema.sql",
+    "db:import": "mysql -h switchyard.proxy.rlwy.net -P 45427 -u root -p railway < db/schema.sql",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
